@@ -29,7 +29,7 @@ Project directory overview: <br>
         - Shark.cs
         - Tornado.cs
 <h3> Instructions for App Usage</h3>
-<br>Instructions for deploying the app: No special instructions. Follow the standard Unity "Build and Run", and make sure the Android app ID is correct.
+Instructions for deploying the app: No special instructions. Follow the standard Unity "Build and Run", and make sure the Android app ID is correct.
 <br>
 Instructions for using the app:
 1. Deploy the application to your Android device and open the app (Assignment1).
@@ -41,6 +41,7 @@ Instructions for using the app:
 Enjoy!
 <br>
 Demonstration video link:
+https://youtu.be/T-g7Gvnvnu4
 <br>
 Missing features: None. <br>
 Bugs in my code and Unity: Not found.   <br>
