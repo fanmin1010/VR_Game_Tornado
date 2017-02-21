@@ -5,6 +5,7 @@ UNI: mf3084 <br>
 Computer Platform: MacBook Pro (Retina, 13-inch, Early 2015) with macOS Sierra (v 10.12.3)  <br>
 Project title: 3D-UI-AR-Assignment1 <br>
 Project directory overview: <br>
+<div>
  - Assets/
     - Models/   (including all models used for the project)
         - barn.fbx
@@ -28,6 +29,7 @@ Project directory overview: <br>
         - Polygon1.cs
         - Shark.cs
         - Tornado.cs
+</div>
 <h3> Instructions for App Usage</h3>
 <br>Instructions for deploying the app: No special instructions. Follow the standard Unity "Build and Run", and make sure the Android app ID is correct.
 <br>
