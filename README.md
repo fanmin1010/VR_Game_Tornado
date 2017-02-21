@@ -28,6 +28,7 @@ Project directory overview: <br>
         - Polygon1.cs
         - Shark.cs
         - Tornado.cs
+<h3> Instructions for App Usage</h3>
 <br>Instructions for deploying the app: No special instructions. Follow the standard Unity "Build and Run", and make sure the Android app ID is correct.
 <br>
 Instructions for using the app:
