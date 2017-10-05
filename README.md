@@ -1,9 +1,9 @@
-# 3D-UI-AR-Assignment1
+# VR Game Rotating Tornado
 
 Name: Min Fan   <br>
 UNI: mf3084 <br>
 Computer Platform: MacBook Pro (Retina, 13-inch, Early 2015) with macOS Sierra (v 10.12.3)  <br>
-Project title: 3D-UI-AR-Assignment1 <br>
+Project title: Rotating Tornado Game for User Interface (3D) Course <br>
 Project directory overview: <br>
 <div>
  - Assets/
